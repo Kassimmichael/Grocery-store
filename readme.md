@@ -18,7 +18,7 @@ https://grocery-store-website-groco.netlify.app/
 - See hover states for all interactive elements on the page
 - The features of the navbar directs you to its exact section when clicked
 
-### What i learned
+## What i learned
 While building this project, i had the opportunity to improve my grid layout, responsiveness and JavaScript knowledge.
 
 ## Color Reference
