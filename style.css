@@ -591,46 +591,30 @@ section {
   font-size: 2rem;
   color: var(--black);
   margin-left: .2rem;
+  background: #eee;
+  text-align: center;
 }
 
+.footer .box-container .box .share a:hover {
+  background: var(--orange);
+  color: #fff;
+}
 
+.footer .box-container .box .email {
+  width: 100%;
+  margin: .7rem 0;
+  padding: 1rem;
+  border-radius: .5rem;
+  background: #eee;
+  font-size: 1.6rem;
+  color: var(--black);
+  text-transform: none;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.footer .box-container .box .payment-img {
+  margin-top: 2rem;
+  height: 3rem;
+}
 
 
 
@@ -688,5 +672,9 @@ section {
 
   .heading {
     font-size: 2.5rem;
+  }
+
+  .footer {
+    text-align: center;
   }
 }
